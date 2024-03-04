@@ -1,7 +1,7 @@
 
-<center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;"></center>
+<center><img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;"></center>
 
-# <center> Анализ резюме из HeadHunter  </center>
+# <center> Анализ резюме из HeadHunter </center>
 
 ## Оглавление
 1. [Описание проекта](#Описание-проекта)
@@ -25,7 +25,7 @@
 
 **О структуре проекта:**
 * [data](./data) - папка с исходными табличными данными
-* [images](./data/images) - папка с изображениями, необходимыми для проекта
+* [image](./data/image) - папка с изображениями, необходимыми для проекта
 * [html](./data/html) - папка с html графиками, необходимыми для проекта
 * [Project-1.ipynb](./Project-1.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задач очистки данных
 
